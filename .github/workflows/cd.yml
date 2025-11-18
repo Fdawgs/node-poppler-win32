@@ -57,7 +57,7 @@ jobs:
             - name: Publish to NPM
               # Build docs/definitions, and remove dev values
               # from package.json before publishing to reduce package size.
-              # Force install to bypass OS/CPU checks; this job only builds and publishes
+              # Force install to bypass OS/CPU checks; does not impact published package
               run: |
                   npm i -g npm@latest
                   npm i -f --ignore-scripts
