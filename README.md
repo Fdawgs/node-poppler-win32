@@ -35,6 +35,15 @@ Contributions are welcome, and any help is greatly appreciated!
 See [the contributing guide](https://github.com/Fdawgs/.github/blob/main/CONTRIBUTING.md) for details on how to get started.
 Please adhere to this project's [Code of Conduct](https://github.com/Fdawgs/.github/blob/main/CODE_OF_CONDUCT.md) when contributing.
 
+## Acknowledgements
+
+- [**Albert Astals Cid**](https://github.com/albert-astals-cid-kdab) - [Poppler](https://poppler.freedesktop.org/) developer
+- [**Filipe Fernandes**](https://github.com/ocefpaf/) - [poppler-feedstock](https://github.com/conda-forge/poppler-feedstock) maintainer
+- [**Peter Williams**](https://github.com/pkgw/) - [poppler-feedstock](https://github.com/conda-forge/poppler-feedstock) maintainer
+- [**Owen Schwartz**](https://github.com/oschwartz10612) - [poppler-windows](https://github.com/oschwartz10612/poppler-windows) developer
+- [**Uwe Korn**](https://github.com/xhochy/) - [poppler-feedstock](https://github.com/conda-forge/poppler-feedstock) maintainer
+- [**Xylar Asay-Davis**](https://github.com/xylar/) - [poppler-feedstock](https://github.com/conda-forge/poppler-feedstock) maintainer
+
 ## License
 
 `node-poppler-win32` is licensed under the [GPL-3.0 or later](./LICENSE) license.
