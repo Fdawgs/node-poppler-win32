@@ -1,6 +1,6 @@
 {
 	"name": "node-poppler-win32",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "64-bit Poppler Windows binaries",
 	"keywords": [
 		"attach",

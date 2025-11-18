@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Fdawgs/node-poppler-win32/compare/v1.0.0...v1.0.1) (2025-11-18)
+
+
+### Bug fixes
+
+* **lib:** remove redundant `win32` directory ([#4](https://github.com/Fdawgs/node-poppler-win32/issues/4)) ([f74db9e](https://github.com/Fdawgs/node-poppler-win32/commit/f74db9e7f343fc7adfb852d978da658b2153ab43))
+
 ## [1.0.0](https://github.com/Fdawgs/node-poppler-win32/compare/v0.0.2...v1.0.0) (2025-11-18)
 
 
