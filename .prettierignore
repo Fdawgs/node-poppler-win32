@@ -149,4 +149,5 @@ pnpm-lock.yaml
 yarn.lock
 
 # Test files
-pict001.wmf
+test/fixtures/
+test/__snapshots__/
