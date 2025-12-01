@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.3](https://github.com/Fdawgs/node-poppler-win32/compare/v1.0.2...v1.0.3) (2025-11-21)
+
+
+### Continuous integration
+
+* **codeql:** check cjs, mjs, and ts files ([#13](https://github.com/Fdawgs/node-poppler-win32/issues/13)) ([7c390f5](https://github.com/Fdawgs/node-poppler-win32/commit/7c390f580a86a0f819e5b627e5f609f553181361))
+
+
+### Miscellaneous
+
+* **.devcontainer:** remove prepare script call ([#14](https://github.com/Fdawgs/node-poppler-win32/issues/14)) ([1ee59f8](https://github.com/Fdawgs/node-poppler-win32/commit/1ee59f8b0a7ff22ac8f0eef4907a6dec89712dcd))
+* tidy dotfiles, remove redundant deps ([#11](https://github.com/Fdawgs/node-poppler-win32/issues/11)) ([36773ee](https://github.com/Fdawgs/node-poppler-win32/commit/36773ee75a48c3c35d2bf9e96863662bc71b4003))
+
 ## [1.0.2](https://github.com/Fdawgs/node-poppler-win32/compare/v1.0.1...v1.0.2) (2025-11-19)
 
 
