@@ -1,7 +1,7 @@
 {
 	"name": "node-poppler-win32",
 	"version": "1.0.2",
-	"description": "64-bit Poppler Windows binaries",
+	"description": "64-bit Windows Poppler binaries",
 	"keywords": [
 		"attach",
 		"cairo",

@@ -7,6 +7,9 @@
 
 const { resolve } = require("node:path");
 
+/**
+ * The absolute path to the directory containing the Poppler binaries.
+ */
 const binaryPath = resolve(
 	__dirname,
 	"lib",

@@ -6,12 +6,15 @@
 [![Coverage status](https://coveralls.io/repos/github/Fdawgs/node-poppler-win32/badge.svg?branch=main)](https://coveralls.io/github/Fdawgs/node-poppler-win32?branch=main)
 [![code style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier)
 
-> 64-bit Poppler Windows binaries packaged for Node.js
+> 64-bit Windows Poppler binaries packaged for Node.js
 
 ## Overview
 
 This package provides 64-bit Windows Poppler binaries packaged up into a Node.js module to make it easier to include in Node-based applications.
 It is intended for use with the [node-poppler](https://github.com/Fdawgs/node-poppler) package but can be used independently.
+
+The module exports a `string` containing the absolute path to the directory containing the Poppler binaries.
+This can then be used to construct the full path to the Poppler executables when using them in an application.
 
 ## Installation
 
@@ -24,8 +27,10 @@ npm i node-poppler-win32
 ## Example Usage
 
 ```js
-const popplerPath = require("node-poppler-win32");
-console.log(`poppler binaries path: ${popplerPath}`);
+"use strict";
+
+const popplerDir = require("node-poppler-win32");
+console.log(`Poppler binaries directory: ${popplerDir}`);
 ```
 
 ## Contributing
