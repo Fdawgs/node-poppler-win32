@@ -10,11 +10,11 @@
 
 ## Overview
 
-This package provides 64-bit Windows Poppler binaries packaged up into a Node.js module to make it easier to include in Node-based applications.
+This package provides 64-bit Windows Poppler binaries packaged up into a Node.js module to make it easier to include in Node-based projects.
 It is intended for use with the [node-poppler](https://github.com/Fdawgs/node-poppler) package but can be used independently.
 
 The module exports a `string` containing the absolute path to the directory containing the Poppler binaries.
-This can then be used to construct the full path to the Poppler executables when using them in an application.
+This can then be used to construct the full path to the Poppler executables.
 
 ## Installation
 
