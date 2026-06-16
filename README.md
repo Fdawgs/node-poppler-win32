@@ -5,6 +5,7 @@
 [![CI](https://github.com/Fdawgs/node-poppler-win32/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Fdawgs/node-poppler-win32/actions/workflows/ci.yml)
 [![Coverage status](https://coveralls.io/repos/github/Fdawgs/node-poppler-win32/badge.svg?branch=main)](https://coveralls.io/github/Fdawgs/node-poppler-win32?branch=main)
 [![code style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier)
+[![OSSF Scorecard](https://api.scorecard.dev/projects/github.com/Fdawgs/node-poppler-win32/badge)](https://scorecard.dev/viewer/?uri=github.com/Fdawgs/node-poppler-win32)
 
 > 64-bit Windows Poppler binaries packaged for Node.js
 
