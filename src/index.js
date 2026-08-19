@@ -13,7 +13,7 @@ const { resolve } = require("node:path");
 const binaryPath = resolve(
 	__dirname,
 	"lib",
-	"poppler-25.11.0",
+	"poppler-26.02.0",
 	"Library",
 	"bin"
 );
